@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaikh Minhaz</h1>
 <h3 align="center">Committed security researcher striving to fortify the digital realm</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7jkI.gif">
-
+<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/579b6ba60ad4ce790b3f368973d71c5b/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethxmnhz&label=Profile%20views&color=0e75b6&style=flat" alt="ethxmnhz" /> </p>
 
 - 🔭 I’m currently working on [Easynmap](https://github.com/Ethxmnhz/Easynmap.git)
