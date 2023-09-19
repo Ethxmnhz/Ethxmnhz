@@ -1,4 +1,4 @@
-<img alt="MasterHead" src="https://pa1.aminoapps.com/6420/9c3aad221af813f5d14ca16f4a11d914b9e1e9f6_00.gif" width="100%" >
+<img alt="MasterHead" src="https://res.cloudinary.com/practicaldev/image/fetch/s--RSrVjzgo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lesbaa8cdfhy794wp41a.gif" width="100%" >
 
 
 <h1 align="center">Hi 👋, I'm Shaikh Minhaz</h1>
