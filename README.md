@@ -1,8 +1,3 @@
-<iframe src="https://gamma.app/embed/f3ehudiwhufqsmg" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="SHAIKH MINHAZ"></iframe>
-
-
-
-
 
 ![](https://github.com/Ethxmnhz/vulwebapp/blob/main/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
