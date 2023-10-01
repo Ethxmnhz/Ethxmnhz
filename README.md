@@ -18,6 +18,7 @@
 - 📫 How to reach me **mnhzspare@gmail.com**
 
 - ⚡ Fun fact **I've decrypted more code than I have unread emails! Just joking...mostly.**
+- 📝 You can ignore my portfolio [https://gamma.app/public/SHAIKH-MINHAZ-f3ehudiwhufqsmg?mode=doc](https://gamma.app/public/SHAIKH-MINHAZ-f3ehudiwhufqsmg?mode=doc)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
