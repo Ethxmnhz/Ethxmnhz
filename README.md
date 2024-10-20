@@ -8,18 +8,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethxmnhz&label=Profile%20views&color=0e75b6&style=flat" alt="ethxmnhz" /> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Minhazx.png" alt="TryHackMe">
 
-- 🔭 I’m currently working on [Easynmap](https://github.com/Ethxmnhz/Easynmap.git)
+- 🔭 I’m currently working on [Easynmap](https://github.com/Ethxmnhz/Scanalyze.git)
 
 - 🌱 I’m currently learning **Cybersecurity Specificly "Offensive"**
 
-- 📝 I regularly write articles on [https://medium.com/@minhaz_ethx](https://medium.com/@minhaz_ethx)
+- 📝 I regularly write articles on [https://medium.com/@shaikhminhaz1975](https://medium.com/@shaikhminhaz1975)
 
 - 💬 Ask me about **Exploitation,Post-exploitation**
 
 - 📫 How to reach me **mnhzspare@gmail.com**
 
 - ⚡ Fun fact **I've decrypted more code than I have unread emails! Just joking...mostly.**
-- 📝 You can ignore my portfolio [https://gamma.app/public/SHAIKH-MINHAZ-f3ehudiwhufqsmg?mode=doc](https://gamma.app/public/SHAIKH-MINHAZ-f3ehudiwhufqsmg?mode=doc)
+- 📝 You can ignore my portfolio [minhaz.in](https://minhaz.framer.ai)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
